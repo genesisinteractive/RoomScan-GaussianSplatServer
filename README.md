@@ -1,6 +1,6 @@
 # RoomScan-GaussianSplatServer
 
-PC training server + web dashboard for [QuestRoomScan](https://github.com/arghyasur1991/QuestRoomScan) Gaussian Splatting pipeline, with server-side atlas enhancement and mesh enhancement.
+PC training server + web dashboard for [QuestRoomScan](https://github.com/genesisinteractive/QuestRoomScan) Gaussian Splatting pipeline, with server-side atlas enhancement and mesh enhancement.
 
 ## Overview
 
